@@ -1,0 +1,95 @@
+/*OPEN/HIDE*/
+div.box1, div.box2, div.box3 {
+ width:100px;
+ height:100px;
+ display: none;
+ background-color: red;
+ margin:0 auto;
+ border-radius: 50%;
+}
+div.box2{
+	background-color: blue;
+}
+div.box3{
+	background-color: green;
+}
+/*FADEin & FADE out*/
+div.box_1, div.box_2, div.box_3 {
+ width:100px;
+ height:100px;
+ display: none;
+ background-color: tomato;
+ margin:0 auto;
+ border-radius: 50%;
+}
+div.box_2{
+	background-color: purple;
+}
+div.box_3{
+	background-color: blue;
+}
+/*SLIDE TOGGLE*/
+div.slideM{
+	   text-align: -webkit-center;
+}
+div.slideMe{
+width:900px;
+ text-align: center;
+ font-size: 20px;
+ background-color: #e5eecc;
+ border: solid 1px #c3c3c3;
+ cursor:pointer;
+   padding: 5px;
+}
+div.lorem{
+	width:900px;
+	text-align: left;
+  font-size: 17px;
+  background-color: #e5eecc;
+  border: solid 1px #c3c3c3;
+  padding: 35px;
+}
+  /*ANIMATION*/
+
+  /*ANIMATON TWO*/
+  div.go_Main{
+    margin-top:160px;
+  }
+  div.block_A{
+    background-color: pink;
+    width: 200px;
+    height: 40px;
+    border: 2px solid gray;
+    font-size: 16px;
+    padding: 5px;
+    text-align: center;
+    
+     margin-left: 10px;
+  }
+  div.block_B{
+    background-color: green;
+    width: 200px;
+    height: 40px;
+    border: 2px solid gray;
+    font-size: 16px;
+    padding: 5px;
+    text-align: center;
+    margin-top:10px;
+     margin-left: 10px;
+  }
+  /*SPREAD ANIMATON*/
+  div.boxx{
+  margin-left: 46%;
+  background-color: #98bf21;
+  width: 100px;
+  height: 100px;
+  position:absolute;
+  }
+  /*HIDE BUTTON*/
+  div.hiDe{
+   margin-top: 150px;
+    }
+/*CHAINING*/
+  div.chaiNing{
+    margin-top: 30px;
+  }
